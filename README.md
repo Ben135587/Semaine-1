@@ -1,6 +1,6 @@
 # Semaine-1
 
-_Benoit Bellet_
+__Benoit Bellet__
 
 je m'appelle "Benoit", 42 ans, marié 3 enfants  
 Originaire de la région de Bordeaux,  
@@ -8,15 +8,15 @@ depuis 18 ans, mon travail me fait découvrir des coins de france,
 mais pas que ...  
   
   
-## Expererience professionelle  
+## Experience professionelle  
   
 * stage de 3 mois en entreprise durant ma scolarité = domaine scientifique tourné vers la similutation   
 et donc la programmation et la visualisation des phénoméess physiques ou chimiques.  
 * 18 ans dans la même entreprise, management opérationnel  
-    '*travail en équipe 
+    '*travail en équipe'   
         vertical ou horizontal  
-    '* sous forte pression  
-    '*prise de decision court terme,moyen terme  
+    '* sous forte pression'  
+    '*prise de decision court terme,moyen terme'  
   
   
 ## pourquoi suis-je sur simplonline?  
