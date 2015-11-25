@@ -13,8 +13,7 @@ mais pas que ...
 * stage de 3 mois en entreprise durant ma scolarité = domaine scientifique tourné vers la similutation   
 et donc la programmation et la visualisation des phénoméess physiques ou chimiques.  
 * 18 ans dans la même entreprise, management opérationnel  
-    `* travail en équipe`   
-        vertical ou horizontal  
+    `* travail en équipe : vertical ou horizontal`  
     `* sous forte pression`  
     `* prise de decision court terme,moyen terme`  
   
